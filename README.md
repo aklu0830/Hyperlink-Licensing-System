@@ -13,7 +13,7 @@ The Hyperlink Licensing System allows Minecraft Plugin Devs to implement our Lic
 - Next Copy and Paste this code into your onEnable() method
 <code>         
         APIPlugin apiPlugin = new APIPlugin();<br>
-        try {
+        try {<br>
             apiPlugin.Enable("api-908419130");
         } catch (SQLException e) {
             e.printStackTrace();
