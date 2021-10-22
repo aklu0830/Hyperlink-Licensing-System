@@ -18,5 +18,5 @@ The Hyperlink Licensing System allows Minecraft Plugin Devs to implement our Lic
         } catch (SQLException e) {
        
         e.printStackTrace();
-        }
+                }</code>
 </code>
