@@ -12,7 +12,7 @@ The Hyperlink Licensing System allows Minecraft Plugin Devs to implement our Lic
 - Create an API-Key on the dashboard. 
 ![API-Keys-Page](https://user-images.githubusercontent.com/71306750/138485996-469d5113-9ff5-42bb-a457-ae0f6022b177.png)
 
-- Now import the Java Library into your project (using Intellij for this). Go to File > Project Structure > Modules > Dependencies > Click ***+*** on the<br>dependencies list
+- Now import the Java Library into your project (using Intellij for this). Go to File > Project Structure > Modules > Dependencies > Click ***+*** in the dependencies list and select Jars or directories. Select the import Java API that was provided by us
 
 - Next Copy and Paste this code into your onEnable() method
 
