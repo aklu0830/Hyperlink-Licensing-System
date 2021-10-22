@@ -20,5 +20,5 @@ The Hyperlink Licensing System allows Minecraft Plugin Devs to implement our Lic
               e.printStackTrace();<br>
           }<br>
   <br>
-    }<br>
+    }
 </code>
