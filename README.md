@@ -26,4 +26,8 @@ The Hyperlink Licensing System allows Minecraft Plugin Devs to implement our Lic
         e.printStackTrace();
         }
         
+        
+- If you are planning to create a custom configuration file, please make sure you add a 'license-key' field to it. If not, the API with create a config.yml automatically.
+
+- Compile and Enjoy
 
