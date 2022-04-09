@@ -20,7 +20,7 @@ The Hyperlink Licensing System allows Minecraft Plugin Devs to implement our Lic
 
         APIPlugin apiPlugin = new APIPlugin();
         try {
-            apiPlugin.Enable("api-908419130");
+            apiPlugin.Enable("api-yourapikey");
         } catch (SQLException e) {
        
         e.printStackTrace();
